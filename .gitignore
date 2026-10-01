@@ -1,3 +1,7 @@
-__pycache__/
-*.pyc
-venv/
+*.class
+build/
+dist/
+*.jar
+.nbproject/
+.idea/
+.vscode/
